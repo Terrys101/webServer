@@ -18,3 +18,10 @@ console.log(`listening on port ${port}`)
 
 
 
+// Terminal 
+// http://localhost:5001/static
+// http://localhost:5001/static/index.html
+
+
+
+
