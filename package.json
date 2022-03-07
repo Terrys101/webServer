@@ -1,0 +1,23 @@
+{
+  "name": "week10",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000w\u0000e\u0000b\u0000S\u0000e\u0000r\u0000v\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Terrys101/webServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Terrys101/webServer/issues"
+  },
+  "homepage": "https://github.com/Terrys101/webServer#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
